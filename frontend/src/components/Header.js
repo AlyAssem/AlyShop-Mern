@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar className='primary' expand='lg' collapseOnSelect>
+      <Navbar bg='primary' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>AlyShop</Navbar.Brand>
