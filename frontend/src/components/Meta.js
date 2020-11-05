@@ -14,7 +14,7 @@ const Meta = ({ title, description, keywords }) => {
 Meta.defaultProps = {
   title: 'Welcome To AlyShop',
   description: 'We sell the best products for cheap',
-  keywords: 'electronics, buy cheap electronics, best selling ecommerce',
+  keywords: 'Veges and fruits, cheap prices, best selling ecommerce',
 };
 
 export default Meta;
