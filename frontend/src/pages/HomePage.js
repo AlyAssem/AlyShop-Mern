@@ -31,7 +31,7 @@ const HomePage = ({ match }) => {
       {!keyword ? (
         <ProductCarousel />
       ) : (
-        <Link to='/' className='btn btn-secondary'>
+        <Link to='/' className='btn' bg='secondary'>
           Go Back
         </Link>
       )}
