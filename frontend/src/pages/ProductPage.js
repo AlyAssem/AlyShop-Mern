@@ -66,7 +66,7 @@ const ProductPage = ({ history, match }) => {
 
   return (
     <>
-      <Link className='btn  my-3' bg='secondary' to='/'>
+      <Link className='btn btn-light my-3' to='/'>
         Go Back
       </Link>
       {loading ? (

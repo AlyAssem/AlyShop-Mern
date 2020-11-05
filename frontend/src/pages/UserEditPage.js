@@ -51,7 +51,7 @@ const UserEditPage = ({ match, history }) => {
 
   return (
     <>
-      <Link to='/admin/userlist' className='btn  my-3' bg='secondary'>
+      <Link to='/admin/userlist' className='btn btn-light my-3'>
         Go Back
       </Link>
       <FormContainer>

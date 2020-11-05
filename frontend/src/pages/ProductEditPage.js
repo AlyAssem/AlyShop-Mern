@@ -93,7 +93,7 @@ const ProductEditPage = ({ match, history }) => {
 
   return (
     <>
-      <Link to='/admin/productlist' className='btn my-3' bg='secondary'>
+      <Link to='/admin/productlist' className='btn btn-light my-3'>
         Go Back
       </Link>
       <FormContainer>
