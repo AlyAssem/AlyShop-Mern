@@ -46,3 +46,42 @@ h3 {
 .carousel a {
   margin: 0 auto;
 }
+
+.intro {
+  background: url('./background.jpg');
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 50;
+}
+.intro .text {
+  color: rgb(233, 233, 233);
+  font-family: 'Heebo', sans-serif;
+  font-size: 3rem;
+}
+
+.slider {
+  background: #8c0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: translateY(100%);
+  z-index: 50;
+}
+
+.hide {
+  background: black;
+  overflow: hidden;
+}
+
+.hide span {
+  transform: translateY(120%);
+  display: inline-block;
+}
