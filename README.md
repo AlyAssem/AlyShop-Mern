@@ -1,5 +1,5 @@
 # AlyShop-Mern
-> eCommerce for selling fresh groceries web-app built with the MERN stack & Redux & React-hooks.
+> eCommerce for selling fresh groceries web-app built with the MERN stack & Redux & React-hooks & React-bootstrap.
 
 Application Demo: https://alyshop-app.herokuapp.com/
 
